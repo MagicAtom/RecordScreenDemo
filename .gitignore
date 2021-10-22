@@ -1,0 +1,9 @@
+cmake-build-debug/3rd-party
+cmake-build-debug
+.vscode
+.DS_Store
+.idea
+
+.mp4
+
+build
